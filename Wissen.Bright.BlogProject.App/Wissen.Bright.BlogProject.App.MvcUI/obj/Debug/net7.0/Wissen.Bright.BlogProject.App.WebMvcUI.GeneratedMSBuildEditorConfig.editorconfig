@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Wissen.Bright.BlogProject.App.WebMvcUI
+build_property.RootNamespace = Wissen.Bright.BlogProject.App.WebMvcUI
+build_property.ProjectDir = C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.MvcUI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ROG\Desktop\BahcesehirEgitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.MvcUI
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Areas/Admin/Views/Home/UserList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxVc2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Areas/Admin/Views/Role/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Areas/Admin/Views/Role/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Areas/Admin/Views/Role/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUm9sZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Areas/Admin/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Areas/Admin/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Areas/Admin/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Article/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Article/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aWNsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Shared/Components/Category/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcnlcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Shared/Components/Tags/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcVGFnc1xEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Shared/_Layout_Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRfQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Areas/Admin/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-iy3qkqdrsn
+
+[C:/Users/ROG/Desktop/BahcesehirEgitim/AspNetCoreMvc/Wissen.Bright.BlogProject.App/Wissen.Bright.BlogProject.App.MvcUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y8qbumnnvo

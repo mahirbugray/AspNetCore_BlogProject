@@ -1,0 +1,17 @@
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.deps.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.runtimeconfig.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.csproj.AssemblyReference.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.AssemblyInfoInputs.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.AssemblyInfo.cs
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.csproj.CopyComplete
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\refint\Wissen.Bright.BlogProject.App.DataAccess.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.genruntimeconfig.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.DataAccess\obj\Debug\net7.0\ref\Wissen.Bright.BlogProject.App.DataAccess.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Wissen.Bright.BlogProject.App.WebMvcUI.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.deps.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.DataAccess.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.csproj.AssemblyReference.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.AssemblyInfoInputs.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.AssemblyInfo.cs
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.csproj.CoreCompileInputs.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.csproj.CopyComplete
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\obj\Debug\net7.0\refint\Wissen.Bright.BlogProject.App.Service.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Service.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Service\obj\Debug\net7.0\ref\Wissen.Bright.BlogProject.App.Service.dll

@@ -1,0 +1,10 @@
+﻿@model List<TagViewModel>
+
+<div class="container text-center">
+    <div class="row my-3">
+        @foreach (var tag in Model)
+        {
+            <a asp-controller="Article" asp-action="GetArticlesByTag" asp-route-tagId="@tag.Id" class="btn btn-outline-success mx-1">@tag.Content</a>
+        }
+    </div>
+</div>

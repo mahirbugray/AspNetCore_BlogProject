@@ -1,0 +1,533 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Wissen.Bright.BlogProject.App.WebMvcUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Wissen.Bright.BlogProject.App.WebMvcUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\images\\Ekran görüntüsü 2023-05-10 235553.png",
+      "PackagePath": "staticwebassets\\images\\Ekran görüntüsü 2023-05-10 235553.png"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\images\\Ekran görüntüsü_20221112_232329.png",
+      "PackagePath": "staticwebassets\\images\\Ekran görüntüsü_20221112_232329.png"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\about.html",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\blog3.html",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\blog3.html"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\contact.html",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\css\\contact.css",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\css\\contact.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\css\\fontawesome-all.css",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\css\\fontawesome-all.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\css\\jquery.desoslide.css",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\css\\jquery.desoslide.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\css\\single.css",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\css\\single.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\css\\style.css",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\4.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\5.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\6.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\b4.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\b5.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\banner4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\banner5.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\banner5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\left.png",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\m1.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\m1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\m2.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\m2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\m3.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\m3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\m4.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\m4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\right.png",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\t1.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\t1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\t2.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\t2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\t3.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\t3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\t4.jpg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\t4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\images\\top_up.png",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\images\\top_up.png"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\js\\easing.js",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\js\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\js\\jquery-2.2.3.min.js",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\js\\jquery-2.2.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\js\\jquery.desoslide.js",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\js\\jquery.desoslide.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\js\\jquery.flexisel.js",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\js\\jquery.flexisel.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\js\\modernizr.custom.min.js",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\js\\modernizr.custom.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\js\\move-top.js",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\js\\move-top.js"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\login.html",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\register.html",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\single.html",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\single.html"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\w3layouts-license.txt",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\w3layouts-license.txt"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\mahir\\Desktop\\BAU Eğitim\\AspNetCoreMvc\\Wissen.Bright.BlogProject.App\\Wissen.Bright.BlogProject.App.MvcUI\\wwwroot\\themes\\CoreBlogTema\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\themes\\CoreBlogTema\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Wissen.Bright.BlogProject.App.WebMvcUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Wissen.Bright.BlogProject.App.WebMvcUI.props",
+      "PackagePath": "build\\Wissen.Bright.BlogProject.App.WebMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Wissen.Bright.BlogProject.App.WebMvcUI.props",
+      "PackagePath": "buildMultiTargeting\\Wissen.Bright.BlogProject.App.WebMvcUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Wissen.Bright.BlogProject.App.WebMvcUI.props",
+      "PackagePath": "buildTransitive\\Wissen.Bright.BlogProject.App.WebMvcUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

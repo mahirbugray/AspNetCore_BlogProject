@@ -1,0 +1,12 @@
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.deps.json
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\bin\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.csproj.AssemblyReference.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.AssemblyInfoInputs.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.AssemblyInfo.cs
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.csproj.CoreCompileInputs.cache
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\obj\Debug\net7.0\refint\Wissen.Bright.BlogProject.App.Entity.dll
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\obj\Debug\net7.0\Wissen.Bright.BlogProject.App.Entity.pdb
+C:\Users\mahir\Desktop\BAU Eğitim\AspNetCoreMvc\Wissen.Bright.BlogProject.App\Wissen.Bright.BlogProject.App.Entity\obj\Debug\net7.0\ref\Wissen.Bright.BlogProject.App.Entity.dll

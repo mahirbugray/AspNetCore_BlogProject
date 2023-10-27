@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domains", "Domains", "{B831CB0E-B0CD-43D4-BBEB-B7D4610A0CFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructures", "Infrastructures", "{63F81AD4-404F-4EB7-8199-02E2AE3B5F8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{ED6A5C6C-5F07-4237-8779-931C00BE9574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wissen.Bright.BlogProject.App.Entity", "Wissen.Bright.BlogProject.App.Entity\Wissen.Bright.BlogProject.App.Entity.csproj", "{34E8AD37-3A21-4D75-A245-098267809E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wissen.Bright.BlogProject.App.DataAccess", "Wissen.Bright.BlogProject.App.DataAccess\Wissen.Bright.BlogProject.App.DataAccess.csproj", "{7F71F5CF-0954-410B-ABD9-24E44E24C690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wissen.Bright.BlogProject.App.Service", "Wissen.Bright.BlogProject.App.Service\Wissen.Bright.BlogProject.App.Service.csproj", "{201DC998-415A-4333-A27C-B311E6C75B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wissen.Bright.BlogProject.App.WebMvcUI", "Wissen.Bright.BlogProject.App.MvcUI\Wissen.Bright.BlogProject.App.WebMvcUI.csproj", "{9D224849-3072-4D1B-A7E5-1A7267D74DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E8AD37-3A21-4D75-A245-098267809E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34E8AD37-3A21-4D75-A245-098267809E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34E8AD37-3A21-4D75-A245-098267809E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34E8AD37-3A21-4D75-A245-098267809E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F71F5CF-0954-410B-ABD9-24E44E24C690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F71F5CF-0954-410B-ABD9-24E44E24C690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F71F5CF-0954-410B-ABD9-24E44E24C690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F71F5CF-0954-410B-ABD9-24E44E24C690}.Release|Any CPU.Build.0 = Release|Any CPU
+		{201DC998-415A-4333-A27C-B311E6C75B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{201DC998-415A-4333-A27C-B311E6C75B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{201DC998-415A-4333-A27C-B311E6C75B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{201DC998-415A-4333-A27C-B311E6C75B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D224849-3072-4D1B-A7E5-1A7267D74DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D224849-3072-4D1B-A7E5-1A7267D74DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D224849-3072-4D1B-A7E5-1A7267D74DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D224849-3072-4D1B-A7E5-1A7267D74DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{34E8AD37-3A21-4D75-A245-098267809E56} = {B831CB0E-B0CD-43D4-BBEB-B7D4610A0CFE}
+		{7F71F5CF-0954-410B-ABD9-24E44E24C690} = {63F81AD4-404F-4EB7-8199-02E2AE3B5F8F}
+		{201DC998-415A-4333-A27C-B311E6C75B09} = {63F81AD4-404F-4EB7-8199-02E2AE3B5F8F}
+		{9D224849-3072-4D1B-A7E5-1A7267D74DC0} = {ED6A5C6C-5F07-4237-8779-931C00BE9574}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FAB68ED-5C60-4B49-BCBD-4A17A280897C}
+	EndGlobalSection
+EndGlobal

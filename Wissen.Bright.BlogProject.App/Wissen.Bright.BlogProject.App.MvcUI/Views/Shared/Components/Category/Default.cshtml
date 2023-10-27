@@ -1,0 +1,11 @@
+﻿@model List<CategoryViewModel>
+
+<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+    <a class="dropdown-item" href="/Article/Index">All Blog List</a>
+    <div class="dropdown-divider"></div>
+    @foreach(var item in Model)
+    {
+        <a class="dropdown-item" asp-action="Index" asp-controller="Article" asp-route-id="@item.Id">@item.Name</a>
+        <div class="dropdown-divider"></div>
+    }
+</div>-
